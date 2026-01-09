@@ -6,3 +6,6 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-clean
 
 ## Purpose
 The objective of this repository is to highlight the fundamental techniques used to clean and prepare a dataset for use. Clean data is important to stakeholders for understanding what is happening accurately so they can make impactful decisions.
+
+This repo showcases key data cleaning techniques—like handling missing values, standardizing inconsistent formats, and removing duplicates—applied to fictional coffee shop sales data for reliable stakeholder analysis.
+
