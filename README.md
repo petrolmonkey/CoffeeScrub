@@ -1,5 +1,3 @@
-# Cafe_Data_Cleanup
-
 ## About
 Coffee Scrub simulates the process of cleaning messy transaction data. It standardizes inconsistent columns, handles missing values, and prepares data for analysis such as customer segmentation or sales trends.
 
@@ -18,7 +16,9 @@ This project uses the [Dirty Cafe Sales Dataset] dataset from Kaggle.
 
 ## Quick Start
 1. Clone repo `git clone http://github.com/petrolmonkey/coffeescrub.git`
-2. `cd coffee-scrub`
-3. Jupyter ➡️ `jupyter notebook notebooks/cafe-data-cleaning.ipynb`
+2. Go to ➡️ `cd coffee-scrub`
+3. Install libraries `pip install -r requirements.txt`
+4. Jupyter `jupyter notebook notebooks/cafe-data-cleaning.ipynb`
 
-## Technologies Used
+## Technologies Used  
+- Pandas 2.3.3, Python3.13.9, Jupyter
